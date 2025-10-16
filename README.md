@@ -1,7 +1,7 @@
 ## FINANCIAL ANALYZER
           A simple Python application that analyzes your spending patterns using machine learning and provides personalized financial insights.
 
- ## WHAT DOES THIS PROJECT DOES
+ ## WHAT DOES THIS PROJECT DO?
           1.This tool helps you understand your spending habits by:
           2.Categorizing transactions automatically using machine learning
           3.Identifying unusual spending patterns
